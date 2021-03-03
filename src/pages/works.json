@@ -1,0 +1,61 @@
+{
+  "code": 200,
+  "msg": "请求成功!",
+  "data": [
+    {
+      "title": "Specialty Coffee",
+      "brief": "Exotic selected coffee for high-quality taste.",
+      "tags": ["espresso", "cappuccino", "brewed coffee", "caffe americano"],
+      "cover": "https://i.imgur.com/FPq8Gxr.png",
+      "id": 1
+    },
+    {
+      "title": "Juice",
+      "brief": "Natural seasonal fruit freshly squeezed juice.",
+      "tags": ["grape juice", "lemonade", "vegetable juice", "pineapple juice"],
+      "cover": "https://i.imgur.com/UsTCqTq.png",
+      "id": 2
+    },
+    {
+      "title": "Dessert",
+      "brief": "Nice dessert specially made by a Michelin chef.",
+      "tags": ["brownie", "tiramisu", "soufflé ", "blueberry pie", "waffle"],
+      "cover": "https://i.imgur.com/acKagln.png",
+      "id": 3
+    },
+    {
+      "title": "Chocolate",
+      "brief": "2018 California State Champion Dark Chocolate.",
+      "tags": ["nut chocolate", "oreo", "white chocolate", "milk chocolate"],
+      "cover": "https://i.imgur.com/39VgDjG.png",
+      "id": 4
+    },
+    {
+      "title": "Birthday Cake",
+      "brief": "Shaped cakes and candles are provided for free.",
+      "tags": ["opera", "cheese cake", "black forest cake", "cream cake"],
+      "cover": "https://i.imgur.com/LWdaqQV.png",
+      "id": 5
+    },
+    {
+      "title": "Coffee Beans",
+      "brief": "Traditional baking recipe, balanced and natural.",
+      "tags": [
+        "Java",
+        "Kenya AA",
+        "Mandheling",
+        "Colombia",
+        "Ethiopia Yirgacheffe"
+      ],
+      "cover": "https://i2.wp.com/coffeezyme.com/wp-content/uploads/2020/12/img_3147.png?resize=150%2C150&ssl=1%20150w",
+      "id": 6
+    },
+    {
+      "title": "Erchandise",
+      "brief": "Ceramic coffee cups are on sale for a limited time.",
+      "tags": ["mugs", "cup", "premium coffee cups", "thermos"],
+      "cover": "https://i.imgur.com/2k8p2Zt.png",
+      "id": 7
+    }
+  ]
+}
